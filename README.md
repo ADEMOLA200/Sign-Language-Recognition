@@ -33,8 +33,8 @@ This project, *Sign Language to Speech Conversion using Machine Learning*, enabl
 You can directly use the pre-trained model (`model.p`) provided in this repository:  
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/sign-language-to-speech.git
-   cd sign-language-to-speech
+   git clone https://github.com/your-username/Sign-Language-Recognition.git
+   cd Sign-Language-Recognition
    ```
 
 2. Install the required dependencies:
